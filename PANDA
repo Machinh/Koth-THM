@@ -1,0 +1,18 @@
+Koth-Panda -->
+
+SSH:
+then ssh shifu@<ip>
+passwd: batman
+
+then ssh po@<ip>
+passwd: password1
+
+
+PANDA FLAGS:
+/root/.flag
+/home/po/flag.txt
+/home/shifu/flag.txt
+/home/tigress/flag.txt
+/var/www/html/flag/index.html (hex and b64)
+/var/www/html/06d63d6798d9b6c2f987f045b12031d6/flag
+/srv/samba/anonymous/binary (strings)

@@ -11,4 +11,3 @@ my wish is that you only use this repository if it is really necessary (as if yo
 
 it is not a step by step on how to finish the machine, but it considerably reduces the work!
 
-<https://github.com/Macchimne/THM-Koth/blob/main/linux-computer.gif>

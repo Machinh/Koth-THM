@@ -11,4 +11,5 @@ my wish is that you only use this repository if it is really necessary (as if yo
 
 it is not a step by step on how to finish the machine, but it considerably reduces the work!
 
-![icons8-linux-server-80](https://user-images.githubusercontent.com/68440743/232340717-8fcfbfe5-1822-424f-bff0-42386bf64ce6.png)
+
+![icons8-console-100](https://user-images.githubusercontent.com/68440743/232341001-4d6dad44-e768-4ff9-8d5c-d3cc8d73e0cc.png)

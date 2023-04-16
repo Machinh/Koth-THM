@@ -7,7 +7,8 @@ USERS:
 username: gcrawford
 password: PAOLA
 
-username: rcampbell
+username:
+rcampbell
 password: molly
 
 --END--

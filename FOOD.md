@@ -1,11 +1,11 @@
-THM-Koth-Food -->
+# THM-Koth-Food -->
 
-ssh credential:
+# ssh credential:
 pasta:pastaisdynamic 
 ramen:noodlesRTheBest
 
 
-Food-Flags:
+# Food-Flags:
 
 Get flag1 under / home/bread
 thm{7baf5aa8491a4b7b1c2d231a24aec575}
@@ -35,8 +35,8 @@ flag3
 thm{58a3cb46855af54d0660b34fd20a04c1}
 
 
-Raise authority to root
+# Raise authority to root
 find all suid:
 /tmp$ find / -perm -u=s -type f 2>/dev/null
 
---END--
+# --END--

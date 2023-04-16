@@ -6,7 +6,7 @@ passwd: batman
 
 users:
 username: po
-passwd: password1sudo /usr/bin/ftp
+passwd: password1
 
 
 PANDA FLAGS:

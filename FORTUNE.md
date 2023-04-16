@@ -1,6 +1,6 @@
 # Koth-Fortune -->
 
 # ssh credentials:
-ssh fortuna@fortune.thm
+fortuna
 
 # --END--

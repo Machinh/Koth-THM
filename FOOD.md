@@ -2,9 +2,12 @@
 
 # ssh credential:
 pasta:pastaisdynamic 
+
 ramen:noodlesRTheBest
+
 food:givemecookies
 
+# root/mysql:
 Pass the linpeas enumeration authorization information and find that mysql uses the default login password: root:root
 /tmp$ mysql -u root -p
 
@@ -32,7 +35,7 @@ find all suid:
 /tmp$ find / -perm -u=s -type f 2>/dev/null
 
 # pasta id_rsa:
-
+```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAuMq9/6Il5rB2QANbYbuYOdb+16f9tIc/85ZW7vvelkzNHADr
 HxUKmwcY53C0VWaOzQTzy+xFVwiKuVG3L2z2LQ2W6rSWbw3XCAy9BWnCmXewGOGJ
@@ -60,5 +63,6 @@ HRsrYQKBgQCaCQD3EX7im9B+CL2XfTCs3fp/WgL6Xw0otiMKHqEuBM9upU4LYs4F
 jXaj5A1iFJibD6YoGGBt3sc7Wl2cS4YJO24GtOQlsgK/W2+VQANwQaYZOJPwrR2c
 19IyrUe3VZjDbJQpLO1TwBdKj/MpcQhhB+m6WXhVYWkixfTTM6VSyg==
 -----END RSA PRIVATE KEY-----
+```
 
 # --END--

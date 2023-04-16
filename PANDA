@@ -4,7 +4,6 @@ ssh credentials:
 username: shifu
 passwd: batman
 
-users:
 username: po
 passwd: password1
 

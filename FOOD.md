@@ -3,13 +3,7 @@
 # ssh credential:
 pasta:pastaisdynamic 
 ramen:noodlesRTheBest
-
-
-# Food-Flags:
-
-Get flag1 under / home/bread
-thm{7baf5aa8491a4b7b1c2d231a24aec575}
-
+food:givemecookies
 
 Pass the linpeas enumeration authorization information and find that mysql uses the default login password: root:root
 /tmp$ mysql -u root -p
@@ -26,17 +20,43 @@ mysql> select * from User;
 | flag     | thm{2f30841ff8d9646845295135adda8332} |
 +----------+---------------------------------------+
 
-flag2
+# FLAGS:
+thm{7baf5aa8491a4b7b1c2d231a24aec575}
 thm{2f30841ff8d9646845295135adda8332}
-
-Find the hidden file flag3 under / home/food
-
-flag3
 thm{58a3cb46855af54d0660b34fd20a04c1}
-
 
 # Raise authority to root
 find all suid:
 /tmp$ find / -perm -u=s -type f 2>/dev/null
+
+# pasta id_rsa:
+
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAuMq9/6Il5rB2QANbYbuYOdb+16f9tIc/85ZW7vvelkzNHADr
+HxUKmwcY53C0VWaOzQTzy+xFVwiKuVG3L2z2LQ2W6rSWbw3XCAy9BWnCmXewGOGJ
+J7O0tWZoptlD4EY/1/YHdw9f49MWss7yJWT3V/pfytUrKJPiIaVbsHyahhbV1JLc
+VfAq1jxPW3+LMbmvP6unvi5X0B4xoGbm64eTWQXHKak1A1wyjYFZtFz98ialAp/+
+lwla6MpgJrtgeY6jjRHhkUd/WT0ud1JH+N4Lbldn1Z3Swc6TyEaDrO7v5YLe9ac0
+jo/bfhr60X25apItar3VqkWicINZIrJMWSpzJwIDAQABAoIBADdnSdnYAqcMpxeA
+Kii+NuC4jgWYb19t4YWlwIC8cTr84c4QlG3oQBrE4Pma9+ZW7l+XqYStXQjAHd98
+GYEVmSVe2q2Z4TSAoMTgFNgHonmiweBj1lxZ68crYhsMLuaSCVg1gn121ZgX1Mld
+dIozoFj3Tzsf+GWdGQJfcoMSiL3EngQgpxnYGBw5c1AC7DmxFr8NZq2ZlopvlO3Y
+bgPWKLtORA4Mksbml8dM1yHsSq8Qg/dCtfe6ldGliqpLQMGj49UWvhbfr63c4+de
+a/M247ykFXsW0q9e/ACYlDPFr177PMDK/0KRnY0JTtUeowoqYangAbp1ZTHZpNpj
+hGEXGOkCgYEA7TDAu8bl+wDdl6XSdWZIJW2v7iV5ksOPBIqRU8xDX05nnnTY4uqO
+9OKPwQo2Qx1gmnZpDAmi+ubW2TVtO75nPqcd/mofycrsKCvaZoGGfKkqyIfdPLZx
+8pUsqd1gT2PPK+R22x9tYurlXCJjP2wXEOznBdyxbLYoYzRaIv8weTsCgYEAx3I8
+8jWYddhl+wklyuKNX/hqeNgWSZAsUq4vyXK5x4u7Vqd9g0lyJhMCMHBCa7rEDCPf
+U6mFhPeGDmqrECxZ9xfRofZq+AwJHAXxcmoou7z7S1Ga1P8N1y7LQGgmcrBw2lkf
+kViBaMNGJFOLgtR/QbKzXa3TlfRSZ5sIy0N+7wUCgYEAnqsrczIV7PhiRC0Agdqf
+TrJ2q0fUcRJzHOWZXEZbl2j6tiySXhHs+fKJmeg77l+7nPizQwM7TL6ZYQp1fS7d
+IDNpRCU4CKS/oAvd+Q6Sqdf8r9L7c77UsSOLkkJuSA2LrGAUBnealD5wmlbCr82e
+DIt97BT7d67Pi7WcyqaNhbsCgYB9TzErnLDlmci5KM4t4pmgqpt6wYl/Pq4aZIZx
+szs2PHy/vQwG6KZndZnyhRW2SenTFtbB4ciZ+kqn1C0WREdiD/0OHZynrCgtCy7g
+DAL7sYjRkbwOBxHTGPtqxAUkGedNyKEk2M6127q+KB+HW6t4w6YePZCqro73uViV
+HRsrYQKBgQCaCQD3EX7im9B+CL2XfTCs3fp/WgL6Xw0otiMKHqEuBM9upU4LYs4F
+jXaj5A1iFJibD6YoGGBt3sc7Wl2cS4YJO24GtOQlsgK/W2+VQANwQaYZOJPwrR2c
+19IyrUe3VZjDbJQpLO1TwBdKj/MpcQhhB+m6WXhVYWkixfTTM6VSyg==
+-----END RSA PRIVATE KEY-----
 
 # --END--

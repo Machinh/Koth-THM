@@ -2,7 +2,7 @@ Koth-Space-Jam -->
 
 port: 3000
 
-you will need to create a shell using the parameters: 
+you will need to create a shell using the parameters:
 http://<IP>/?cmd=<REVERSE_SHELL>
 
 the flags will be in:

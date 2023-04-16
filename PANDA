@@ -1,10 +1,11 @@
 Koth-Panda -->
 
-SSH:
-then ssh shifu@<ip>
+ssh credentials:
+username: shifu
 passwd: batman
 
-then ssh po@<ip>
+users:
+username: po
 passwd: password1
 
 

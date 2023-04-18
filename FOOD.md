@@ -30,6 +30,11 @@ thm{2f30841ff8d9646845295135adda8332}
 
 thm{58a3cb46855af54d0660b34fd20a04c1}
 
+thm{9f1ee18d3021d135b03b943cc58f34db}
+
+thm{5a926ab5d3561e976f4ae5a7e2d034fe}
+
+
 # Raise authority to root
 find all suid:
 /tmp$ find / -perm -u=s -type f 2>/dev/null

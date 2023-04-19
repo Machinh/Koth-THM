@@ -1,11 +1,18 @@
 # Users
 
 narrator:X8JEETQmf3hkS65f
+
 admin:admin
 
+ ```
+root passwd: iamgod$08
+ ```
+
 # Exploit
+ ```
 
 https://www.exploit-db.com/exploits/47044
+ ```
 
 # TDurden's id_rsa:
 

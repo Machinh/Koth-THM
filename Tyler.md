@@ -2,7 +2,7 @@
 
 narrator:X8JEETQmf3hkS65f
 
-admin:admin
+LibreNMS Default passwd: admin:admin
 
  ```
 root passwd: iamgod$08

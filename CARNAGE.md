@@ -1,10 +1,13 @@
 # CARNAGE -->
-Users:
-yoda
-duku
+
+# Users:
+```yoda```
+
+```duku```
 
 # duku r_sa key:
-``
+
+```
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
 QyNTUxOQAAACATQLVIr77yK4TwcZZ1u0DX/qaSue5NNUkDz4roBYT0zgAAAIjrCGAZ6whg
@@ -12,6 +15,6 @@ GQAAAAtzc2gtZWQyNTUxOQAAACATQLVIr77yK4TwcZZ1u0DX/qaSue5NNUkDz4roBYT0zg
 AAAEC3POa13ftnfCfC3LhqDZ04lSEUQK3+OMtomXRmTI1WjhNAtUivvvIrhPBxlnW7QNf+
 ppK57k01SQPPiugFhPTOAAAABGR1a3UB
 -----END OPENSSH PRIVATE KEY-----
-``
+```
 
 ---END---

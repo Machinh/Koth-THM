@@ -1,18 +1,14 @@
-# Users
+# Users:
 
-narrator:X8JEETQmf3hkS65f
+```narrator:X8JEETQmf3hkS65f```
 
-LibreNMS Default passwd: admin:admin
+LibreNMS Default passwd: ```admin:admin```
 
- ```
-root passwd: iamgod$08
- ```
+```root passwd: iamgod$08```
 
-# Exploit
- ```
+# Exploit:
 
-https://www.exploit-db.com/exploits/47044
- ```
+```https://www.exploit-db.com/exploits/47044```
 
 # TDurden's id_rsa:
 

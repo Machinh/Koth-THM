@@ -1,16 +1,13 @@
 # Koth-Hackers -->
 
-ftp: ftp <ip>
+ftp: ```ftp <ip>```
   
-Passwd: anonymous
+```Passwd: anonymous```
 
 # USERS:
-username: gcrawford
-  
-password: PAOLA
-  
-rcampbell
-  
-password: molly
 
---END--
+```gcrawford:PAOLA```
+  
+```rcampbell:molly```
+
+---END---

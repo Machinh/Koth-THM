@@ -25,6 +25,7 @@
 ```sudo /usr/bin/ftp```
 
 ```!/bin/sh```
+
 find (suid's
 
 

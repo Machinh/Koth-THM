@@ -1,6 +1,7 @@
 # Lion -->
 
 note: ssh is on ```1337```
+note: for login ssh: ```ssh -i (id_rsa) <ip> <port>```
 
 # Users:
 

@@ -1,6 +1,6 @@
 # HOGWARTS -->
 
-you need rustscan for this machine download here: https://github.com/Macchimne/RUSTSCAN
+you need rustscan for this machine, download here: https://github.com/Macchimne/RUSTSCAN
 
 # Users:
 

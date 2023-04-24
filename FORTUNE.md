@@ -2,11 +2,11 @@
 
 # ssh credentials:
 
-```fortuna```
+fortuna
 
 # Hermes r_sa key:
 
-```
+
 -----BEGIN RSA PRIVATE KEY-----
 Proc-Type: 4,ENCRYPTED
 DEK-Info: AES-128-CBC,57145A8D54A46E26334807885A43DA74
@@ -37,6 +37,4 @@ fNRrsHGlYsqQGvhCtgM9iUZwJALAkqy71XXXy9e+a31QkmG8kRhBiQTex+GZRv6O
 gX0bg5csBqJMyJtMNm35GRhoxOmQb0yzKJW/B9uLA3yc/qEOJuu+BjcNx9YrqhoE
 h2ZlzchBizy6lU08RI/Py0OGB6YfTWTXM89AENH3sttMI765+CZaypRUBDWDQSrF
 -----END RSA PRIVATE KEY-----
-```
 
-# --END--

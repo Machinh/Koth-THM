@@ -1,18 +1,17 @@
 # Users:
 
-```narrator:X8JEETQmf3hkS65f```
+narrator:X8JEETQmf3hkS65f
 
-LibreNMS Default passwd: ```admin:admin```
+LibreNMS Default passwd: admin:admin
 
-```root passwd: iamgod$08```
+root passwd: iamgod$08
 
 # Exploit:
 
-```https://www.exploit-db.com/exploits/47044```
+ https://www.exploit-db.com/exploits/47044
 
 # TDurden's id_rsa:
 
-```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAvtKk2o/D5bl3eKcmDTBjy2z9mU8IeCPIVQjZ5M2i+6F122aJ
 VbXoTgmsMvgzoJ3HCBB1KjIBLzhBLPtrv/lKVsS+7dUEp8i7zKzCgJy1wUA869ri
@@ -40,7 +39,6 @@ zV1VUQKBgDupvxWOhqf0md/nJ+oAC6WZWcFVp8HVYH2JVk3r+dTyTBu5AKcMVR/p
 eu81pmX0Mb9/r715wKd7eDpymWjXiuo88EONbUlRErjdJQ0WuJkw9t//znCRmPBH
 FLWlF0hgshMSf7zonVIdhrp23YiFK3ALxoxqGXRJOtfKQi3FDLwM
 -----END RSA PRIVATE KEY-----
-```
 
 # Narrator's id_rsa:
 
@@ -72,4 +70,11 @@ qE/uDQKBgQDgn76GuDlT7Itk8LEN+hn4Yup97oXpjMHSPrkZC8iRpxOuPYP0EEC1
 t1Ywik0g6ceHw8v0cl5XPj7tRs2U6xy/4iQ2/fERjPCZmBZeO3dz0OCZamsEIWtb
 tMshFFP1ppXtnVqtYWLYNa9rL3HZlzb8EsVxwpZqnKE9vO+SiuHdTg==
 -----END RSA PRIVATE KEY-----
- ```
+
+# flags:
+
+991c65538b9afaf2494f4552b915c948
+
+751ad4b411730e6596d0cc4ae9245106
+
+9a2d57cc33cd052a88fd5ba25d1c953c

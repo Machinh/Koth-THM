@@ -1,20 +1,19 @@
 # Lion -->
 
-note: ssh is on ```1337```
+note: ssh is on  1337
 
-note: for login ssh: ```ssh -i (id_rsa) <ip> <port>```
+note: for login ssh: ssh -i (id_rsa) <ip> <port>
 
 # Users:
 
-```gloria:id_rsa```
+gloria:id_rsa
 
-```alex```
+alex
 
-```marty```
+marty
 
 # gloria id_rsa (password dance):
 
-```
 -----BEGIN RSA PRIVATE KEY-----
 Proc-Type: 4,ENCRYPTED
 DEK-Info: AES-128-CBC,DEA2FCB97D9A7EE91BB5502188F24BCA
@@ -45,4 +44,3 @@ ScVJZPT4dqDo3PSIQUw7q0GixCLLdDU9p45CSKPVySYyiGU22RTQS2ccGEcCTurj
 lcY0pO4wZmm5GkseF5moa/1c3aOUZOESAlWGpEg5PNPt3U/SWJTpziGv3NY5DLq9
 R9OsbX0gkO711f8RvRTELQIYFIO/0LcKTjY16g8MtBlMKYCyJ0cWLVWAUoggJxiR
 -----END RSA PRIVATE KEY-----
-```

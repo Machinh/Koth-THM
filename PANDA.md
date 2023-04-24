@@ -2,19 +2,19 @@
 
 # ssh credentials:
 
-```shifu:batman```
+shifu:batman
 
-```username: po:password1```
+username: po:password1
 
 # PANDA FLAGS:
 
-```NzRjZTk1ZDZhYTVmNTQyZmU5MDliMThkYzA2ZDRiYTMK```
+NzRjZTk1ZDZhYTVmNTQyZmU5MDliMThkYzA2ZDRiYTMK
 
-```MGNlMTZmYjFiYmM1ODY2OTczY2JlZmNlNjY4YTJmYTcK```
+MGNlMTZmYjFiYmM1ODY2OTczY2JlZmNlNjY4YTJmYTcK
 
-```YzIzOGI2MzNkNTExOTM3NGYyMmQwNzk4Y2Q5ZDkzOGIK```
+YzIzOGI2MzNkNTExOTM3NGYyMmQwNzk4Y2Q5ZDkzOGIK
 
-```Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK```
+Mzk3NGRkYWFmM2RjM2ViOGU0NjZlNWQ2YjMyNDZjNWEK
 
 
 
@@ -22,9 +22,9 @@
 
 # to get root with user shifu:
 
-```sudo /usr/bin/ftp```
+sudo /usr/bin/ftp
 
-```!/bin/sh```
+!/bin/sh
 
 find (suid's
 
@@ -32,7 +32,6 @@ find (suid's
 
 # Tigress's Id_rsa:
 
-```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA0rJZ4ALm6AgaONlRb5YmyTYRqXkI6c/+TGg9biygTS1GiYFC
 E+jMqk+q9nsl0cWFjns4Z2MA5uxiPzix7LcywiB6zScGcSkYaqKCFoOFT3VlpQYh
@@ -59,7 +58,4 @@ dG3xVcLqz3yGW/9i3WUFJLp30ON678HWeg+4/p4Erk7PLOaBY6Y2lx7zF/t9jSPW
 c08h/CUCgYA2cFZCvohbd27q0BDVHZQhAhLIRnRexTL4urF7Y+BzyGDiiPKcFYM8
 44Ruf0x4Yvkjx1k4OR1njTKSmnPA4FSu/jzUH0KsVPUe0Kyx9W6VVyw1LLYuj/iY
 KQCo0DuuJ1a3H0niYraMvmpiF73XW72l8SZGw+xT+741AxqZ5ljRpQ==
------END RSA PRIVATE KEY-----
-```
-
----END---
+-----END RSA PRIVATE KEY----

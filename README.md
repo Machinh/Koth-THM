@@ -1,5 +1,4 @@
 # THM-Koth
-Koth-koth
 a repository with cheat-Sheet for Koth in THM (Try hack me)
 
 

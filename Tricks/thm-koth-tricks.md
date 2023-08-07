@@ -48,7 +48,7 @@ mkdir ~/.localpython
 make;make install
 ```
 
-# a fully tty shell:
+# Uma full tty shell:
 
 ```
 python3 -c"pkill -9 -t pts/ 'import pty;pty.spawn("/bin/bash")'
@@ -62,16 +62,16 @@ aperte "enter" novamente
 export TERM=xterm-256color
 ```
 
-# Search Suid's:
+# Procurar Suids:
 ```
 find / -perm -u=s -ls 2>/dev/null > /tmp/.find &
 ```
 
-# delete chattr:
+# Deletar chattr:
 ```
 rm -rf /usr/bin/chattr
   ```
-# Find Flags:
+# procurar Flags:
 ```
 find / -name flags
 

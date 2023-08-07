@@ -1,18 +1,17 @@
                                                    <Tricks-For-All-Things>
 
-# if you need (sure will) to install "chattr" on a machine here's a gift: 
+# se você precisa (com certeza vai) instalar o "chattr" em uma máquina aqui vai um presente:
 
 ```
-https://github.com/Macchimne/Chattr-for-Koth
+https://github.com/Machinh/Koth-THM/blob/main/Files/Chattr/Best-Chattr.md
 ```
 
-# if you want to create a simple web server in python (generally to download or install something from machine to machine): 
-
+# se você deseja criar um servidor web simples em python (geralmente para baixar ou instalar algo de máquina para máquina):
 ```
 python3 -m http.server <port>
 ```
 
-# if you need to see open ports:
+# Se você precisar ver protas abertas:
 
 ```
 netstat -anpt
